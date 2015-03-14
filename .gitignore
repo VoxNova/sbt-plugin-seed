@@ -10,6 +10,6 @@
 /HelloPluginTest/target/
 /HelloPluginTest/project/project/
 /HelloPluginTest/project/target/
-src/sbt-test/HelloPluginTest/target/
-src/sbt-test/HelloPluginTest/project/project/
-src/sbt-test/HelloPluginTest/project/target/
+src/sbt-test/call-hello/target/
+src/sbt-test/call-hello/project/project/
+src/sbt-test/call-hello/project/target/
